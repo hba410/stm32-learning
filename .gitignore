@@ -1,0 +1,24 @@
+# MDK5 编译产物（不提交）
+*.o
+*.axf
+*.elf
+*.map
+*.dep
+*.crf
+*.htm
+*.lst
+*.bin
+
+# 可选：hex 烧录文件（想分享烧录包就注释掉这行）
+# *.hex
+
+# 编辑器/系统
+.vscode/
+*.tmp
+.DS_Store
+Thumbs.db
+
+# 备份文件
+*~
+*.bak
+*.orig
